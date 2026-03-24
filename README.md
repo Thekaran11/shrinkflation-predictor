@@ -37,3 +37,7 @@ Instead of looking at raw inflation rates, this tool identifies **market unpredi
     ```bash
     python melts.py
     ```
+## Outputs
+Running the script generates a fully interactive `Plotly` web dashboard in your browser, allowing users to hover over historical shrinkflation triggers and explore the AI's future supply chain stress predictions. 
+
+![AI Forecast Chart](forecast_chart.png)
