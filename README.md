@@ -27,3 +27,9 @@ Instead of looking at raw inflation rates, this tool identifies **market unpredi
    ```bash
    # Replace the URL below with your actual GitHub repository link
    git clone [https://github.com/YourUsername/shrinkflation-predictor.git](https://github.com/YourUsername/shrinkflation-predictor.git)
+2. Install the required dependencies:
+```bash
+   pip install -r requirements.txt
+3. Run the analysis pipeline:
+```bash
+   python melts.py
